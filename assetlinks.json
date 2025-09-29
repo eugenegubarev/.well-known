@@ -1,0 +1,27 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.platfomni.vita.dev",
+      "sha256_cert_fingerprints": [
+        "BD:6C:6C:A1:CE:48:E8:4B:81:4C:A3:F6:6E:A0:93:AD:3C:52:B8:BC:85:BB:65:80:F6:11:0F:F0:5C:75:31:72"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.platfomni.vita",
+      "sha256_cert_fingerprints": [
+        "D2:6B:31:32:90:22:37:1A:AD:2D:4E:3D:31:4C:51:05:DF:15:3C:60:C1:C9:F8:36:3C:13:DA:7F:EC:B4:83:40",
+        "D8:72:05:9F:14:54:16:71:53:3B:19:41:4E:7C:AF:F3:13:CF:54:58:76:14:F1:39:4C:07:6E:14:18:DD:15:DA"
+      ]
+    }
+  }
+]
